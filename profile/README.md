@@ -4,7 +4,6 @@
 <h2>Roxo</h2>
 <h5>a low-contrast, eye-friendly, dark purple theme.</h5>
 
-![github starts](https://img.shields.io/github/stars/roxo-theme?logo=github&color=b4beee)
 [![License: MIT](https://img.shields.io/badge/License-MIT-97ca39.svg)](https://opensource.org/licenses/MIT)
 
 </div>
